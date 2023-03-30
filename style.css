@@ -1,10 +1,9 @@
-em{
-    color: blue;
-}
-.id{
-text-align: center;
-}
-#yu{
-    text-align: center;
-
+header a{
+    font-size: medium;
+    padding: 10px;
+    text-decoration: none;
+    background-color: rgb(43, 40, 216);
+    float: left;
+    text-transform: uppercase;
+    color: black;
 }
