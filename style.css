@@ -1,9 +1,19 @@
-header a{
-    font-size: medium;
-    padding: 10px;
-    text-decoration: none;
-    background-color: rgb(43, 40, 216);
-    float: left;
-    text-transform: uppercase;
+.ty{
+    height:100px;
+    width:100vw;
+    display: flex;
+    justify-content: left;
+}
+.yt{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    background-color:greenyellow;
+}
+.yt li{
+    padding: 30px;
+}
+.yt li a{
     color: black;
 }
