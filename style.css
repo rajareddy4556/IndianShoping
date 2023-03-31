@@ -1,6 +1,6 @@
 .ty{
     height:100px;
-    width:100vw;
+    width:fit-content;
     display: flex;
     justify-content: left;
     background-color: greenyellow;
