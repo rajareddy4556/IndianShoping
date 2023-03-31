@@ -1,13 +1,13 @@
 .ty{
     height:100px;
-    width:100vw;
+    width:max-content;
     display: flex;
     justify-content: left;
     background-color: greenyellow;
 }
 .op{
     display: flex;
-    width: 100vw;
+    width: max-content;
     background-color: deeppink;
     justify-content: left;
 
