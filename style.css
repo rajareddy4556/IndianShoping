@@ -3,17 +3,20 @@
     width:100vw;
     display: flex;
     justify-content: left;
+    background-color: greenyellow;
 }
-.yt{
-    height: 100px;
+.op{
     display: flex;
-    justify-content: center;
+    background-color: deeppink;
+    justify-content: left;
+
+}
+.op ul{
     list-style-type: none;
-    background-color:greenyellow;
+    display: flex;
+    justify-content: left;
 }
-.yt li{
-    padding: 30px;
-}
-.yt li a{
-    color: black;
+.op ul li a{
+color: black;
+padding: 20px;
 }
