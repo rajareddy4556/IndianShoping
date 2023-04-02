@@ -1,21 +1,55 @@
-.ty{
-    height:100px;
-    width:100vw;
+.header_element{
+    height: 100px;
+    width: 100vw;
     display: flex;
     justify-content: left;
+    background-color:hwb(30 17% 7%);
 }
-.op{
+.Trending_block{
+    height: 500px;
+    width: 1500px;
+    margin-top: 10px;
+    border: 3px solid black;
     display: flex;
-    width: max-content;
-    justify-content: left;
+    justify-content: center;
+    margin-left: 10px;
 
 }
-.op ul{
-    list-style-type: none;
+.hey{
+    height: 100px;
+    width: 100px;
+}
+.hey img{
+    height: 100px;
+    width: 100px;
+}
+.child{
+    height: 100px;
+    width: 100vw;
     display: flex;
     justify-content: left;
+    align-items: center;
 }
-.op ul li a{
-color: black;
-padding: 20px;
+.child ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.child ul li{
+    padding: 20px;
+}
+.child ul li a{
+    color: rgb(0, 0, 0);
+}
+.child1{
+    margin: 0;
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.child1 img{
+    height: 100px;
+    width: 100px;
 }
