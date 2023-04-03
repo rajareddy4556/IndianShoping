@@ -53,3 +53,21 @@
     height: 100px;
     width: 100px;
 }
+.child1 ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none; 
+}
+.child1 ul li{
+    padding: 20px;
+}
+.child1 ul li a{
+    color: black;
+}
+.foot_nav_bar{
+    height: 300px;
+    width: max-content;
+    background-color: rgb(190, 30, 15);
+    display: flex;
+}
+
