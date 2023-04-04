@@ -40,6 +40,10 @@
 }
 .child ul li a{
     color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.child button{
+    margin-left: 8px;
 }
 .child1{
     margin: 0;
@@ -63,6 +67,7 @@
 }
 .child1 ul li a{
     color: black;
+    text-decoration: none;
 }
 .foot_nav_bar{
     height: 300px;
